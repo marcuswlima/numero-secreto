@@ -1,3 +1,3 @@
 # numero-secreto
 
-Projeto do cursor da alura de git e githug
+Projeto do cursor da alura de git e github
