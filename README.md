@@ -10,3 +10,5 @@ Projeto do cursor da alura de git e github
 
 - commit na rua
 
+- teste commit
+
