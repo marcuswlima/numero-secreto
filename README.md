@@ -8,9 +8,3 @@ Projeto do cursor da alura de git e github
 
 - homologacao pt
 
-- commit na rua
-
-- teste commit
-
-- teste via ssh
-
